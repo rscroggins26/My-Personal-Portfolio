@@ -102,6 +102,7 @@ body{
   margin-top:-10.5%;
   margin-left:-35%;
 }
+
 iframe{
   border-radius: 35px;
   border:solid black 3px;
@@ -121,6 +122,9 @@ iframe{
 }
 .first-card-set{
   display:flex;
+}
+.second-card-set{
+  display: flex;
 }
 .first-title-set{
   display:flex;
@@ -149,4 +153,14 @@ h1{
 
 .iframe-link:hover {
   background: rgba(0, 0, 0, 0.9);
+}
+.img-4 {
+  width: 960px;
+  height: 600px;
+  margin-left:10.5%; 
+  margin-top:-22%;
+  transform: scale(0.3);
+  position: relative; 
+  display: flex;
+  justify-content: center;
 }
