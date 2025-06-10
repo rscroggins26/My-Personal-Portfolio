@@ -157,10 +157,21 @@ h1{
 .img-4 {
   width: 960px;
   height: 600px;
+  margin-left:17.5%; 
+  margin-top:-22%;
+  transform: scale(0.3);
+  position: relative; 
+  display: flex;
+  justify-content: center;
+}
+.img-5{
+  width: 960px;
+  height: 600px;
   margin-left:10.5%; 
   margin-top:-22%;
   transform: scale(0.3);
   position: relative; 
   display: flex;
   justify-content: center;
+  margin-left:-35%;
 }
